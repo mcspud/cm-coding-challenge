@@ -1,4 +1,4 @@
-#Overview
+# Overview
 
 We have a list (Array) of 1000 Javascript maps (Objects), that have been pulled down from the internet somewhere.  This data can be found in `data.txt`.  We'd like to give an interface to our users to do the following:
 
@@ -8,7 +8,7 @@ We have a list (Array) of 1000 Javascript maps (Objects), that have been pulled 
 
 Since there is lots of data in the list, the user is going to need to be able to paginate through the items.  The user should be able to select the page size from a dropdown - the options being 10, 25 and 50; and with the default value being 10.
 
-##Tools  
+## Tools  
 React  
 Redux
 
