@@ -12,9 +12,12 @@ Since there is lots of data in the list, the user is going to need to be able to
 React  
 Redux
 
-**bonus points**  
+**Bonus Points**  
 Reselect  
-Immutable  
+Immutable
+
+The project uses both of these packages, so it is highly encouraged that if you are familiar with them to try it.  If you are creating custom selectors, here is a helpful gist that is pulled straight from the project:
+https://gist.github.com/mcspud/9d75f4130799cce535e413826a2de9bc
 
 There is 0 requirement for styling in this challenge.  If you'd like to pretty it up with bootstrap or something then by all means, but you will not be judged on this at all.
 
